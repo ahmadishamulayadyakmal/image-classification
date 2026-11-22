@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML artifacts
+*.h5
+*.keras
+*.onnx
+*.pth
+*.pt
+
+# Dataset and outputs
+data/
+datasets/
+outputs/
+runs/
